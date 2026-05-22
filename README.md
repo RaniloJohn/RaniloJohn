@@ -7,7 +7,7 @@
 <div align="left">
 
   <!-- STATS CARDS FLOATED RIGHT -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaniloJohn&show_icons=true&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="400px" alt="RaniloJohn GitHub Stats" />
+  <img align="right" src="https://github-readme-stats-git.vercel.app/api?username=RaniloJohn&show_icons=true&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="400px" alt="RaniloJohn GitHub Stats" />
   <img align="right" src="https://streak-stats.demolab.com/?user=RaniloJohn&theme=dark&background=090d16&ring=10b981&fire=10b981&currStreakNum=10b981&border=1e293b&v=1" width="400px" alt="RaniloJohn Streak Stats" />
 
   <!-- RETRO CYBER-CONSOLE METADATA BLOCK -->
@@ -82,7 +82,7 @@
 ## 📊 Latverian Language Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniloJohn&layout=compact&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="60%" alt="RaniloJohn Top Languages" />
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=RaniloJohn&layout=compact&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="60%" alt="RaniloJohn Top Languages" />
 </p>
 
 ---

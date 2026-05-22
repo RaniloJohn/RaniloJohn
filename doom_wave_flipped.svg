@@ -47,7 +47,7 @@
       to { transform: rotate(-360deg); }
     }
 
-    /* Breathing & Pulsing elements */
+    /* Breathing and Pulsing elements */
     .pulse-glow {
       animation: pulse 2s ease-in-out infinite;
     }
