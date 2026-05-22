@@ -1,14 +1,14 @@
 <!-- DOCTOR DOOM CYBER-FORTRESS PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaniloJohn/RaniloJohn/main/doom_wave_flipped.svg" width="100%" alt="Shizuphrenia Latverian Cyber-Fortress Banner" />
+  <img src="doom_wave_flipped.svg" width="100%" alt="Shizuphrenia Latverian Cyber-Fortress Banner" />
 </p>
 
 <!-- SIDE-BY-SIDE FLOATING CONTAINER -->
 <div align="left">
 
   <!-- STATS CARDS FLOATED RIGHT -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaniloJohn&show_icons=true&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b" width="400px" alt="RaniloJohn GitHub Stats" />
-  <img align="right" src="https://streak-stats.demolab.com/?user=RaniloJohn&theme=dark&background=090d16&ring=10b981&fire=10b981&currStreakNum=10b981&border=1e293b" width="400px" alt="RaniloJohn Streak Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaniloJohn&show_icons=true&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="400px" alt="RaniloJohn GitHub Stats" />
+  <img align="right" src="https://streak-stats.demolab.com/?user=RaniloJohn&theme=dark&background=090d16&ring=10b981&fire=10b981&currStreakNum=10b981&border=1e293b&v=1" width="400px" alt="RaniloJohn Streak Stats" />
 
   <!-- RETRO CYBER-CONSOLE METADATA BLOCK -->
   ```text
@@ -71,10 +71,18 @@
 
 ---
 
+## 📊 Latverian Grid Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/10b981/RaniloJohn?v=1" alt="RaniloJohn's GitHub Contributions" />
+</p>
+
+---
+
 ## 📊 Latverian Language Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniloJohn&layout=compact&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b" width="60%" alt="RaniloJohn Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniloJohn&layout=compact&theme=dark&bg_color=090d16&title_color=10b981&icon_color=10b981&text_color=94a3b8&border_color=1e293b&v=1" width="60%" alt="RaniloJohn Top Languages" />
 </p>
 
 ---
